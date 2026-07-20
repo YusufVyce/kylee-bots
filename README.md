@@ -1,1 +1,1 @@
-# ilk defa github kullandığım zaman açtığım repo
+# The repo I created when I used GitHub for the first time
